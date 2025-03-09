@@ -40,7 +40,10 @@ Download Arduino IDE Open your favorite browser and go to the [official Arduino 
 
 ![image](https://github.com/user-attachments/assets/e676483e-60b9-4257-8911-483af21a37bd)
 
-**Once the installation is complete, click on the “Finish” button to close the wizard. Check “Run Arduino IDE” to start immediately.**
+**Once the installation is complete, click on the “Finish” button. Check “Run Arduino IDE” to start immediately.**
 
 ![image](https://github.com/user-attachments/assets/7fc613a1-b08e-4120-86a3-56fc83a5b69a)
+
+![image](https://github.com/user-attachments/assets/9fd21241-6243-438f-bdb5-f850604ce052)
+
 
